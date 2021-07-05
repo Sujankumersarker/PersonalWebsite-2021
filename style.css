@@ -1,0 +1,21 @@
+body{margin:0px;padding: 0px;}
+h1{font-size:60px;color: #363958;}
+p{margin-bottom: 45px;;}
+.top-manu{margin: 50px;}
+.manubar{float: right;}
+.button{padding: 5px;margin: 20px;text-decoration: none;color:rgb(58, 55, 55);}
+.top-banner{float: left;}
+.half-width{width:40%;margin:50px;padding-left:2%;float:left }
+.half-width img{width:100%;}
+.name-highlite{color:#FF8367}
+.link-button{text-decoration:none;background-image:linear-gradient(45deg,lightSalmon, tomato );padding:15px 40px;border-radius:5px;color:white;margin-top: 20px;}
+#work{text-align: center;font-size: 30px;}
+.work-project{}
+.Project{float: left;width: 100%;background-color: #F8F9FC;}
+.project-gallary{width: 22%;padding: 25px;float: left;margin: 50px 10px;background-color: #ffff; box-shadow: 10px 10px 40px gray;border-radius: 10px;}
+.project-gallary img{width: 100%;}
+#image-4{margin-left: 120px;}
+#image-5{margin-left: 20px; margin-right: 20px;}
+#image-8{margin-right: 120px;}
+.work-inquiry{margin: 100px;}
+.inquiry{background-image: url("images/work area.png");background-repeat:no-repeat;width: 100%; overflow: hidden;}
