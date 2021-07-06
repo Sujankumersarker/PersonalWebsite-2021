@@ -1,0 +1,106 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  font-size: 50px;
+  color: #fff;
+}
+p {
+  margin-bottom: 45px;
+}
+.top-manu {
+  margin: 50px;
+}
+.manubar {
+  float: right;
+}
+.button {
+  padding: 5px;
+  margin: 20px;
+  text-decoration: none;
+  color: rgb(58, 55, 55);
+}
+.top-banner {
+  float: left;
+}
+.half-width {
+  width: 40%;
+  margin: 50px;
+  padding-left: 2%;
+  float: left;
+}
+.half-width img {
+  width: 100%;
+}
+.name-highlite {
+  color: #ff8367;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightSalmon, tomato);
+  padding: 15px 40px;
+  border-radius: 5px;
+  color: white;
+  margin-top: 20px;
+}
+#work {
+  text-align: center;
+  font-size: 30px;
+}
+.work-project {
+}
+.Project {
+  /* float: left; */ /* width: 100%; */
+  background-color: #f8f9fc;
+}
+.project-gallary {
+  width: 22%;
+  padding: 25px;
+  float: left;
+  margin: 50px 10px;
+  background-color: #ffff;
+  box-shadow: 0px 10px 40px grey;
+  border-radius: 10px;
+}
+.project-gallary img {
+  width: 100%;
+}
+#image-4 {
+  margin-left: 120px;
+}
+#image-5 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#image-8 {
+  margin-right: 120px;
+}
+
+section.work-area {
+    padding: 107px 0;
+}
+
+.in-text h1 {
+    font-size: 40px;
+    color: #fff;
+    
+}
+
+.work-inquiry {
+ 
+  background-image: url(images/work area.png) !important;
+}
+.inquiry {
+    background-image: url("images/work area.png");
+    background-repeat: no-repeat;
+    width: 60%;
+    overflow: hidden;
+    background-size: cover;
+    padding: 0 60px;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    height: 314px;
+    align-items: center;
+}
