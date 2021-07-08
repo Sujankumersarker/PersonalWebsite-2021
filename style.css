@@ -11,14 +11,27 @@ p{margin-bottom: 45px;;}
 .link-button{text-decoration:none;background-image:linear-gradient(45deg,lightSalmon, tomato );padding:15px 40px;border-radius:5px;color:white;margin-top: 20px;}
 #work{text-align: center;font-size: 30px;}
 .work-project{}
-.Project{float: left;width: 100%;background-color: #F8F9FC;}
+.Project{float: left;width: 100%;background-color: #F8F9FC;margin-bottom: 100px;}
 .project-gallary{width: 22%;padding: 25px;float: left;margin: 50px 10px;background-color: #ffff; box-shadow: 10px 10px 40px gray;border-radius: 10px;}
 .project-gallary img{width: 100%;}
 #image-4{margin-left: 120px;}
 #image-5{margin-left: 20px; margin-right: 20px;}
 #image-8{margin-right: 120px;}
-.work-inquiry{margin: 100px 100px 100px 400px;background-image: url("images/work area.png");background-repeat:no-repeat;width: 100%; overflow: hidden;background-size: contain;float: left;text-align: left;justify-content: space-between;padding: 2%;}
-.inquiry-btn{}
+.work-inquiry{}
+.inquiry-btn{background-image: url("images/work area.png");
+    background-repeat: no-repeat;
+    width: 60%;
+    overflow: hidden;
+    background-size: contain;
+    padding: 0 60px;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    height: 230px;
+    align-items: center;}
 .inquiry{}
-.inquiry h1{font-size: 30px;}
+.inquiry h1{font-size: 30px;color: white;}
 .btn{}
+#work-btn{}
+.Stay-connected{text-align: center;margin: 100px;}
+.Stay-connected img{width: 50px;height: 50px;}
